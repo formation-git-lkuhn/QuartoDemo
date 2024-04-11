@@ -16,3 +16,7 @@ Please use [Code_of_conduct file] (code_of_conduct.md)
 
 Please use [Contribution file] (CONTRIBUTING.md)
 
+
+## License
+
+Please use [License file] (README.md)
