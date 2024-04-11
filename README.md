@@ -1,5 +1,9 @@
 # Quarto demo
 
+## Contribution
+
+Please use [Contribution file] (code_of_conduct.md)
+
 ## Citation
 
 If you use QuartoDemo, please cite:
