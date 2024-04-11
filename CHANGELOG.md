@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.7.0](https://github.com/formation-git-lkuhn/QuartoDemo/compare/v1.6.0...v1.7.0) (2024-04-11)
+
+
+### Features
+
+* Update README.md ([2325de7](https://github.com/formation-git-lkuhn/QuartoDemo/commit/2325de76d8a6f943a86657079ee1ff62c9e3c5d5))
+
 ## [1.6.0](https://github.com/formation-git-lkuhn/QuartoDemo/compare/v1.5.0...v1.6.0) (2024-04-11)
 
 
